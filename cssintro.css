@@ -1,0 +1,31 @@
+h1 {
+	border: 1px solid #aaa;
+	border-top: 5px solid rgb(170,170,170);
+	padding: 10px;
+	padding-left: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333 
+}
+li a {
+	display: block;
+    text-align: center;
+	padding: 14px 16px;
+	color: navy;
+	text-decoration: none; 
+}
+
+li {
+	float: left;
+
+}
+
+	 
+
+/*This is a CSS file that is meant to be linked to an html file,used to make the websites better
+/*The colour theory,padding,borders etc. needs reading under w3schools.com
+

@@ -1,0 +1,9 @@
+<p> is a paragraph tag
+Attributes qualifies it. E,g style, align
+
+
+                        Assignment
+Design google logo and write about yourself using html.
+Examples of block level element and inline level elements
+emphasis=italic
+strong=bold

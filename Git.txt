@@ -1,0 +1,28 @@
+Git local and 
+install Git bash
+
+git checkout name of branch
+application wuld go testing
+
+git checkout *.html
+for picking all html files 
+what u do in testing branch wont show in master branch
+
+git merger testing
+git checkout testing
+
+for creatng branches
+git branch test1
+git branch test2
+git branch test3
+
+touch,add twice,commit
+
+git checkout master
+git merge
+git checkout -b test 4(checksout and branches another test together)  
+git checkout master(to go back to master)
+
+create a file name gitignore and another html file
+
+go to git-scm.com
